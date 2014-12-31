@@ -1,0 +1,31 @@
+{
+  "uuid": "aa526a4a-137b-4bb9-94fd-50182c33dfd0",
+  "shortName": "Decimal.time",
+  "longName": "Decimal.time",
+  "capabilities": [ "configurable" ],
+  "companyName": "JPDesigns",
+  "versionCode": 2,
+  "versionLabel": "1.1",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "seconds": 0,
+     "r_time": 1
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+      "type": "png",
+      "name": "menuicon",
+      "file": "images/menuicon.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_OSP_DIN_60",
+        "file": "fonts/osp-din/RBNo2Light_a_50.ttf"
+      }
+    ]
+  }
+}
